@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://USERNAME.github.io/sha-zola-vonge"  # <-- replace with your site URL
+base_url = "https://vincent-strapi.top"  # <-- replace with your site URL
 theme = "vonge"
 
 title = "Vonge"
